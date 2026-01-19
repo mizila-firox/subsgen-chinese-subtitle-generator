@@ -59,19 +59,21 @@ Interactive Chinese subtitles for Bilibili - hover for pinyin and translation. T
   <img src="https://lh3.googleusercontent.com/4dm_NKfPTOJVkTt6vOX5QyEKJQNNUJLGia8rpt_h6qy7Ykb53zN43T0fm7Bi7eHXKnBfvav1xSa30wIhiNGXT2U--w=s400" alt="Extension Icon" width="150">
 </div>
 
+### Extension in Action
+
+| Screenshot 1 | Screenshot 2 |
+|--------------|--------------|
+| <img src="screenshots/screenshot-1.png" alt="Screenshot 1" width="400"> | <img src="screenshots/screenshot-2.png" alt="Screenshot 2" width="400"> |
+
+| Screenshot 3 | Screenshot 4 |
+|--------------|--------------|
+| <img src="screenshots/screenshot-3.png" alt="Screenshot 3" width="400"> | <img src="screenshots/screenshot-4.png" alt="Screenshot 4" width="400"> |
+
 ## 🚀 Installation
 
-### Chrome Web Store
 [![Download from Chrome Web Store](https://img.shields.io/badge/Download%20from%20Chrome%20Web%20Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/subsgen-chinese-subtitle/hfhohlnemifmkpcimhfakelnogmddcbk)
 
 Click the button above to install SubsGen from the official Chrome Web Store.
-
-### Manual Installation
-1. Download the extension ZIP file from the [Releases](https://github.com/firox/subsgen-chinese-subtitle-generator/releases) page
-2. Extract the ZIP file to a folder
-3. Open Chrome and navigate to `chrome://extensions/`
-4. Enable "Developer mode" in the top right
-5. Click "Load unpacked" and select the extracted folder
 
 ## 🔒 Privacy & Security
 
@@ -86,7 +88,7 @@ Questions or feedback? We'd love to hear from you!
 - Contact us through the extension settings
 - Leave a review on the Chrome Web Store
 - Developer: [mizila-firox](https://x.com/mizilafirox)
-- Email: contato.gustavofernandes@hotmail.com
+- Email: fernanddesaraujo.gustavo@gmail.com
 
 ## 🏗️ Technical Details
 
